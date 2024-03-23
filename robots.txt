@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bogoblog.github.io/sitemap.xml
